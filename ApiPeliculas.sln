@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiPeliculas", "ApiPeliculas\ApiPeliculas.csproj", "{B6460A90-1813-4258-BC14-D823EFB4DC88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6460A90-1813-4258-BC14-D823EFB4DC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6460A90-1813-4258-BC14-D823EFB4DC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6460A90-1813-4258-BC14-D823EFB4DC88}.Debug|x64.ActiveCfg = Debug|x64
+		{B6460A90-1813-4258-BC14-D823EFB4DC88}.Debug|x64.Build.0 = Debug|x64
+		{B6460A90-1813-4258-BC14-D823EFB4DC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6460A90-1813-4258-BC14-D823EFB4DC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6460A90-1813-4258-BC14-D823EFB4DC88}.Release|x64.ActiveCfg = Release|x64
+		{B6460A90-1813-4258-BC14-D823EFB4DC88}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D04CD15-BF2A-46F9-9B12-654246FE6B0A}
+	EndGlobalSection
+EndGlobal
